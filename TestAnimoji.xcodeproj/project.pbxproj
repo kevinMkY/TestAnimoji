@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A567DD81FC30CCE006207F2 /* preview.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A567DD71FC30CCD006207F2 /* preview.png */; };
 		0A9C24421FC3010A00FCE5EF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A9C24411FC3010A00FCE5EF /* AppDelegate.m */; };
 		0A9C24451FC3010A00FCE5EF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A9C24441FC3010A00FCE5EF /* ViewController.m */; };
 		0A9C24481FC3010A00FCE5EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A9C24461FC3010A00FCE5EF /* Main.storyboard */; };
@@ -14,10 +15,10 @@
 		0A9C244D1FC3010A00FCE5EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A9C244B1FC3010A00FCE5EF /* LaunchScreen.storyboard */; };
 		0A9C24501FC3010A00FCE5EF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A9C244F1FC3010A00FCE5EF /* main.m */; };
 		0A9C245B1FC3012900FCE5EF /* AvatarKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A9C24571FC3012800FCE5EF /* AvatarKit.framework */; };
-		0A9C24621FC30BB800FCE5EF /* IMG_0360.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 0A9C24611FC30BB800FCE5EF /* IMG_0360.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A567DD71FC30CCD006207F2 /* preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = preview.png; sourceTree = "<group>"; };
 		0A9C243D1FC3010A00FCE5EF /* TestAnimoji.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestAnimoji.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A9C24401FC3010A00FCE5EF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0A9C24411FC3010A00FCE5EF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -32,7 +33,6 @@
 		0A9C24581FC3012800FCE5EF /* AVTAvatarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AVTAvatarView.h; sourceTree = "<group>"; };
 		0A9C24591FC3012800FCE5EF /* AVTPuppet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AVTPuppet.h; sourceTree = "<group>"; };
 		0A9C245A1FC3012800FCE5EF /* AVTPuppetView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AVTPuppetView.h; sourceTree = "<group>"; };
-		0A9C24611FC30BB800FCE5EF /* IMG_0360.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0360.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +76,7 @@
 				0A9C244B1FC3010A00FCE5EF /* LaunchScreen.storyboard */,
 				0A9C244E1FC3010A00FCE5EF /* Info.plist */,
 				0A9C244F1FC3010A00FCE5EF /* main.m */,
-				0A9C24611FC30BB800FCE5EF /* IMG_0360.PNG */,
+				0A567DD71FC30CCD006207F2 /* preview.png */,
 			);
 			path = TestAnimoji;
 			sourceTree = "<group>";
@@ -150,7 +150,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A9C24621FC30BB800FCE5EF /* IMG_0360.PNG in Resources */,
+				0A567DD81FC30CCE006207F2 /* preview.png in Resources */,
 				0A9C244D1FC3010A00FCE5EF /* LaunchScreen.storyboard in Resources */,
 				0A9C244A1FC3010A00FCE5EF /* Assets.xcassets in Resources */,
 				0A9C24481FC3010A00FCE5EF /* Main.storyboard in Resources */,

@@ -27,6 +27,7 @@
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
+		<string>front-depth-camera</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
@@ -41,5 +42,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>111</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>222</string>
 </dict>
 </plist>
